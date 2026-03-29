@@ -22,7 +22,8 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 ## 🌍 Live Demo
 
-(Add your Vercel link after deployment)
+https://sumit-portfolio-web.vercel.app/
+
 
 ## 📁 Folder Structure
 
